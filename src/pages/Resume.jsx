@@ -1,7 +1,7 @@
 export default function Resume() {
     return (
       <div>
-        <a className="btn btn-primary btn-lg" href="..\src\assets\resume.pdf" download="resume.pdf">Click here to download my resume!</a>
+        <a className="btn btn-primary btn-lg" href="/assets/resume.pdf" download="resume.pdf">Click here to download my resume!</a>
         <div className="pb-3">
         <h2 className="p-3">Front End Skills</h2>
         <ul className="list-group">
